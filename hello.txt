@@ -3,5 +3,3 @@ Halp
 Mencoba menambahkan pembaharuan
 
 Nambahi Lagi yah
-
-Nambahi Sebagai orang luar dengan Fork
